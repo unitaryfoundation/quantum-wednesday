@@ -58,7 +58,7 @@ Well done!
 Thank you for sharing your knowledge with the community.
 
 - Share your slides or any other resources in **📚〢quantum-wednesday** channel.
-- Feel free to share your talk on social media and tag us [@unitaryfoundation.bsky.social](https://bsky.app/profile/unitaryfoundation.bsky.social) on Bluesky.
+- Feel free to share your talk on social media and tag us [@unitary.foundation](https://bsky.app/profile/unitaryfoundation.bsky.social) on Bluesky.
 - If you have any feedback or suggestions, please share them with someone on the UF team!
 
 Need help? Ask in **📚〢quantum-wednesday** or reach out to one of the moderators.
