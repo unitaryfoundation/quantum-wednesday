@@ -15,7 +15,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2025-05-07 | Simone Cantori | Classical deep learning for quantum error mitigation  | [paper](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00256-8)|
+| 2025-05-07 | Simone Cantori | Classical deep learning for quantum error mitigation  | [paper](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00256-8), [slides](https://drive.google.com/file/d/17VJIC2PLJMDBPuO6-lZMRKLgYpVrNj5V/view?usp=sharing)|
 | 2025-04-30 | Brad Chase | Verifying Fault-Tolerance of Quantum Error Correction Codes | [paper](https://arxiv.org/abs/2501.14380v2), [slides](https://drive.google.com/file/d/1iLFNR76sWD07V2b45S9KMy37TZhU_HDC/view?usp=drive_link)|
 | 2025-04-23 | nate | On the Importance of Error Mitigation for Quantum Computation | [paper](https://arxiv.org/abs/2503.17243), [slides](https://docs.google.com/presentation/d/1QYIq2KcJ73C6i_SouKXQ9YVEK3Exfh5RMdjXDl0T8PQ/) |
 | 2025-03-26 | nate + Farrokh | Virtual Distillation Demo | [RFC](https://docs.google.com/document/d/1833IaqzpJ7DbfasgXt59AA93fJk4_EUDfBV4yNHHyic/), [slides1](https://drive.google.com/file/d/1Fz6G95isfI8FUTg7rx_W8vt7DGtjRevT/), [slides2](https://docs.google.com/presentation/d/1HnNh6s216hHjcXSj7gNuKOBz01nvNPZKZEU6FR83Rho/) |
