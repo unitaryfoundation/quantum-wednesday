@@ -15,6 +15,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2025-05-28 | Samin Ishtiaq | The Fault Tolerant Upgrade for your QPU Control System  | slides|
 | 2025-05-14 | Kaylea Champion and Matthew Gaughan | The Science of (Open Source) Community  | [website](https://wiki.communitydata.science/Main_Page)|
 | 2025-05-07 | Simone Cantori | Classical deep learning for quantum error mitigation  | [paper](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00256-8), [slides](https://drive.google.com/file/d/17VJIC2PLJMDBPuO6-lZMRKLgYpVrNj5V/view?usp=sharing)|
 | 2025-04-30 | Brad Chase | Verifying Fault-Tolerance of Quantum Error Correction Codes | [paper](https://arxiv.org/abs/2501.14380v2), [slides](https://drive.google.com/file/d/1iLFNR76sWD07V2b45S9KMy37TZhU_HDC/view?usp=drive_link)|
