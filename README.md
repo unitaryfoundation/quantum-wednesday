@@ -15,7 +15,8 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2025-06-18 | Lukas Burgholzer | The Munich Quantum Toolkit (MQT): Design Automation Tools and Software for Quantum Computing  | [paper](https://arxiv.org/abs/2405.17543)|
+| 2025-06-25 | Robbie King | Quantum Algorithms: A Call to Action  | [blog](https://quantumfrontiers.com/2025/04/20/quantum-algorithms-a-call-to-action/)|
+| 2025-06-18 | Lukas Burgholzer | The Munich Quantum Toolkit (MQT): Design Automation Tools and Software for Quantum Computing  | [paper](https://arxiv.org/abs/2405.17543), [slides](https://drive.google.com/file/d/1e5Wckh64G8KJkLxT9V5cE8BC1K21h8nj/view?usp=sharing)|
 | 2025-06-11 | Samin Ishtiaq | The Fault Tolerant Upgrade for your QPU Control System  | [slides](https://drive.google.com/file/d/1VNdVrNue2zdMIwdZTEL3aBUIpgUwIbjx/view?usp=sharing)|
 | 2025-06-04 | Luciano Bello | Qiskit v2 - what's coming  | [slides](https://drive.google.com/file/d/1WVOCXE5tXBQnFfQkTOn6x3YDbfTcMIrW/view?usp=drive_link)|
 | 2025-05-14 | Kaylea Champion and Matthew Gaughan | The Science of (Open Source) Community  | [website](https://wiki.communitydata.science/Main_Page)|
