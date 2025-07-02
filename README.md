@@ -16,6 +16,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
 | 2025-07-09 | Orazio Scarlatella | Standardized test of many-body coherence in gate-based quantum platforms  | [paper](https://arxiv.org/abs/2503.12573)|
+| 2025-07-02 | Farrokh Labib | Stabilizer rank | [slides]([https://arxiv.org/abs/2405.14697](https://drive.google.com/file/d/1lYFWKqfrvFAFSAUq6fGQCDSvxJQHiS4k/view))|
 | 2025-06-25 | Robbie King | Quantum Algorithms: A Call to Action  | [blog](https://quantumfrontiers.com/2025/04/20/quantum-algorithms-a-call-to-action/)|
 | 2025-06-18 | Lukas Burgholzer | The Munich Quantum Toolkit (MQT): Design Automation Tools and Software for Quantum Computing  | [paper](https://arxiv.org/abs/2405.17543), [slides](https://drive.google.com/file/d/1e5Wckh64G8KJkLxT9V5cE8BC1K21h8nj/view?usp=sharing)|
 | 2025-06-11 | Samin Ishtiaq | The Fault Tolerant Upgrade for your QPU Control System  | [slides](https://drive.google.com/file/d/1VNdVrNue2zdMIwdZTEL3aBUIpgUwIbjx/view?usp=sharing)|
