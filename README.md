@@ -15,6 +15,10 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2025-08-27 | Olivia Di Matteo | Constant-time hybrid compilation of Shor's algorithm with quantum just-in-time compilation  | [paper](https://arxiv.org/abs/2504.12449) |
+| 2025-08-20 | Senrui Chen | Learning and mitigating Pauli noise self-consistently  | [paper](https://arxiv.org/abs/2505.22629) |
+| 2025-08-13 | Eli Bourassa | Integrated photonic source of Gottesman–Kitaev–Preskill qubits  | [paper1](https://www.nature.com/articles/s41586-025-09044-5), [paper2](https://www.nature.com/articles/s41586-024-08406-9) |
+| 2025-08-06 | O. Burundukov/M. Cenk/T. Visegrady | Post-quantum cryptography: view from digital-assets management users  | paper |
 | 2025-07-09 | Orazio Scarlatella | Standardized test of many-body coherence in gate-based quantum platforms  | [paper](https://arxiv.org/abs/2503.12573)|
 | 2025-07-02 | Farrokh Labib | Stabilizer rank | [slides](https://drive.google.com/file/d/1lYFWKqfrvFAFSAUq6fGQCDSvxJQHiS4k/view)|
 | 2025-06-25 | Robbie King | Quantum Algorithms: A Call to Action  | [blog](https://quantumfrontiers.com/2025/04/20/quantum-algorithms-a-call-to-action/)|
