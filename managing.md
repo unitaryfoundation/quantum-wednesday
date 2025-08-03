@@ -11,6 +11,10 @@ A QW manager is mainly responsible for finding speakers/filling slots, but there
 - Send message on Discord with links to the slides and recording, thanking the speaker.
 - Keep the table in the README up to date with the related links/info.
 
+## Quantum Wednesday Chairs
+
+[List of the 2025 QW chairs/managers](https://docs.google.com/document/d/1gWOA0bqyomc-WMowcK95FXI2FPPsGtGXls6wdh43pQc/edit?tab=t.bgxubmm3nqh6)
+
 ## History
 
 | Time         | Manager    |
