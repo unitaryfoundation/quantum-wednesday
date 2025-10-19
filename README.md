@@ -15,6 +15,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2025-12-03 | Nishad Maskara | Batched high-rate logical operations for quantum LDPC codes      | [paper](https://arxiv.org/abs/2510.06159) |
 | 2025-11-26 | Abtin Molavi | Generating Compilers for Qubit Mapping and Routing      | [paper](https://arxiv.org/abs/2508.10781) |
 | 2025-11-19 | Leonardo Banchi | Efficient tensor-network simulations of weakly-measured quantum circuits      | [paper](https://arxiv.org/abs/2510.07211) |
 | 2025-11-12 | Ioana Moflic | Ultra-Large-Scale Compilation and Manipulation of Quantum Circuits with Pandora     | [paper](https://arxiv.org/abs/2508.05608) |
