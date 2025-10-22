@@ -22,7 +22,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 | 2025-11-05 | Jose A Bolanos | Algorithmic lattice surgery: From ZX circuits to fault-tolerant computations    | [github](https://github.com/tqec/topologiq) |
 | 2025-10-29 | Qian Xu | Transversal dimension jump for product qLDPC codes    | [paper](https://arxiv.org/pdf/2510.07269) |
 | 2025-10-22 | Alex Meiburg | Formalizing Quantum Information in Lean    | [github](https://github.com/Timeroot/Lean-QuantumInfo) |
-| 2025-09-24 | Balint Pato | Quantum Wednesday: PlanqTN, a Python library and web app for the quantum LEGO framework   | [paper](https://arxiv.org/abs/2109.08158) |
+| 2025-09-24 | Balint Pato | Quantum Wednesday: PlanqTN, a Python library and web app for the quantum LEGO framework   | [paper](https://arxiv.org/abs/2109.08158), [slides](https://drive.google.com/file/d/1yuMC2lWIq61cI0aH7_SKn4X_mseku4e_/view?usp=sharing) |
 | 2025-08-27 | Olivia Di Matteo | Constant-time hybrid compilation of Shor's algorithm with quantum just-in-time compilation  | [paper](https://arxiv.org/abs/2504.12449) |
 | 2025-08-20 | Senrui Chen | Learning and mitigating Pauli noise self-consistently  | [paper](https://arxiv.org/abs/2505.22629) |
 | 2025-08-13 | Eli Bourassa | Integrated photonic source of Gottesman–Kitaev–Preskill qubits  | [paper1](https://www.nature.com/articles/s41586-025-09044-5), [paper2](https://www.nature.com/articles/s41586-024-08406-9), [slides](https://drive.google.com/file/d/1ohhQESwoe4Fr8ebc1FHmeq09V7hKw5UT/view?usp=sharing) |
