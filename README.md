@@ -19,7 +19,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 | 2025-11-26 | Abtin Molavi | Generating Compilers for Qubit Mapping and Routing      | [paper](https://arxiv.org/abs/2508.10781) |
 | 2025-11-19 | Leonardo Banchi | Efficient tensor-network simulations of weakly-measured quantum circuits      | [paper](https://arxiv.org/abs/2510.07211) |
 | 2025-11-12 | Ioana Moflic | Ultra-Large-Scale Compilation and Manipulation of Quantum Circuits with Pandora     | [paper](https://arxiv.org/abs/2508.05608) |
-| 2025-11-05 | Jose A Bolanos | Algorithmic lattice surgery: From ZX circuits to fault-tolerant computations    | [github](https://github.com/tqec/topologiq), [slides](https://drive.google.com/file/d/1_qACfEx_7lPk-PpB-kwaG_j7OJ1f99nR/view?usp=sharing) |
+| 2025-11-05 | Jose A Bolanos | Algorithmic lattice surgery: From ZX circuits to fault-tolerant computations    | [github](https://github.com/tqec/topologiq), [slides](https://drive.google.com/file/d/1_qACfEx_7lPk-PpB-kwaG_j7OJ1f99nR/view?usp=sharing), [recording](https://www.youtube.com/watch?v=lLxInkc7kI8) |
 | 2025-10-29 | Qian Xu | Transversal dimension jump for product qLDPC codes    | [paper](https://arxiv.org/pdf/2510.07269) |
 | 2025-10-22 | Alex Meiburg | Formalizing Quantum Information in Lean    | [github](https://github.com/Timeroot/Lean-QuantumInfo) |
 | 2025-09-24 | Balint Pato | Quantum Wednesday: PlanqTN, a Python library and web app for the quantum LEGO framework   | [paper](https://arxiv.org/abs/2109.08158), [slides](https://drive.google.com/file/d/1yuMC2lWIq61cI0aH7_SKn4X_mseku4e_/view?usp=sharing) |
