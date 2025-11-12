@@ -18,7 +18,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 | 2025-12-03 | Nishad Maskara | Batched high-rate logical operations for quantum LDPC codes      | [paper](https://arxiv.org/abs/2510.06159) |
 | 2025-11-26 | Abtin Molavi | Generating Compilers for Qubit Mapping and Routing      | [paper](https://arxiv.org/abs/2508.10781) |
 | 2025-11-19 | Leonardo Banchi | Efficient tensor-network simulations of weakly-measured quantum circuits      | [paper](https://arxiv.org/abs/2510.07211) |
-| 2025-11-12 | Ioana Moflic | Ultra-Large-Scale Compilation and Manipulation of Quantum Circuits with Pandora     | [paper](https://arxiv.org/abs/2508.05608) |
+| 2025-11-12 | Ioana Moflic | Ultra-Large-Scale Compilation and Manipulation of Quantum Circuits with Pandora     | [paper](https://arxiv.org/abs/2508.05608), [recording](https://www.youtube.com/watch?v=sOyu6Mac8Do) 
 | 2025-11-05 | Jose A Bolanos | Algorithmic lattice surgery: From ZX circuits to fault-tolerant computations    | [github](https://github.com/tqec/topologiq), [slides](https://drive.google.com/file/d/1_qACfEx_7lPk-PpB-kwaG_j7OJ1f99nR/view?usp=sharing), [recording](https://www.youtube.com/watch?v=lLxInkc7kI8) |
 | 2025-10-29 | Qian Xu | Transversal dimension jump for product qLDPC codes    | [paper](https://arxiv.org/pdf/2510.07269) |
 | 2025-10-22 | Alex Meiburg | Formalizing Quantum Information in Lean    | [github](https://github.com/Timeroot/Lean-QuantumInfo) |
