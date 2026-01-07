@@ -15,7 +15,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2026-01-07 | Adi Dhumuntarao | Benchmarking quantum computers with any quantum algorithm      | [paper](https://arxiv.org/pdf/2508.05754) |
+| Postponed | Adi Dhumuntarao | Benchmarking quantum computers with any quantum algorithm      | [paper](https://arxiv.org/pdf/2508.05754) |
 | 2025-12-03 | Nishad Maskara | Batched high-rate logical operations for quantum LDPC codes      | [paper](https://arxiv.org/abs/2510.06159) |
 | 2025-11-26 | Abtin Molavi | Generating Compilers for Qubit Mapping and Routing      | [paper](https://arxiv.org/abs/2508.10781) |
 | 2025-11-19 | Leonardo Banchi | Efficient tensor-network simulations of weakly-measured quantum circuits      | [paper](https://arxiv.org/abs/2510.07211), [slides](https://drive.google.com/file/d/1t4HijLT4G4z4veaarLcUagiNRSESYVpG/view?usp=drive_link) |
