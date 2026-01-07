@@ -13,7 +13,7 @@ A QW manager is mainly responsible for finding speakers/filling slots, but there
 
 ## Quantum Wednesday Chairs
 
-[List of the 2025 QW chairs/managers](https://docs.google.com/document/d/1gWOA0bqyomc-WMowcK95FXI2FPPsGtGXls6wdh43pQc/edit?tab=t.bgxubmm3nqh6)
+[List of the 2026 QW chairs/managers](https://docs.google.com/document/d/1gWOA0bqyomc-WMowcK95FXI2FPPsGtGXls6wdh43pQc/edit?tab=t.mbv3zlrt8bqi)
 
 ## History
 
