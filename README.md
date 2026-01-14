@@ -15,6 +15,8 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2026-01-21 | Charles Yuan | Compiling Block Encodings for Quantum Computational Linear Algebra     | [paper](https://arxiv.org/abs/2511.01736) |
+| 2026-01-14 | Benjamin Rodatz | Completeness for Fault Equivalence of Clifford ZX Diagrams       | [paper](https://arxiv.org/abs/2510.08477) |
 | Postponed | Adi Dhumuntarao | Benchmarking quantum computers with any quantum algorithm      | [paper](https://arxiv.org/pdf/2508.05754) |
 | 2025-12-03 | Nishad Maskara | Batched high-rate logical operations for quantum LDPC codes      | [paper](https://arxiv.org/abs/2510.06159), [recording](https://youtu.be/PR5B-V1vGC4) |
 | 2025-11-26 | Abtin Molavi | Generating Compilers for Qubit Mapping and Routing      | [paper](https://arxiv.org/abs/2508.10781), [recording](https://youtu.be/mG1PJTlyC9Q?si=seLkdVRZyiGUeD7U) |
