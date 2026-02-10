@@ -15,6 +15,9 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2026-02-25 | Alex Rice | Quantum Circuits Are Just a Phase       | [paper](https://doi.org/10.1145/3776731) | 
+| 2026-02-18 | Brad Chase | Discussion on Computer Science Challenges in Quantum Computing: Early Fault-Tolerance and Beyond        | [paper](https://arxiv.org/abs/2601.20247) | 
+| 2026-02-11 | Adrian Harkness | FTCircuitBench: A Benchmark Suite for Fault-Tolerant Quantum Compilation and Architecture        | [paper](https://arxiv.org/abs/2601.03185) | 
 | 2026-02-04 | Farrokh Labib | Group Discussion: Magic state cultivation       | [paper](https://arxiv.org/pdf/2512.13908), [paper](https://arxiv.org/pdf/2409.17595), [video](https://www.youtube.com/watch?v=bbR0__v5uHo) | 
 | Postponed | Evan Dobbs | Advantage in distributed quantum computing with slow interconnecs      | [paper](https://arxiv.org/abs/2512.10693) |
 | 2026-01-21 | Charles Yuan | Compiling Block Encodings for Quantum Computational Linear Algebra     | [paper](https://arxiv.org/abs/2511.01736), [recording](https://www.youtube.com/watch?v=rVVsZrc9mmk) |
