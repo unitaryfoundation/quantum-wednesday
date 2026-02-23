@@ -15,14 +15,15 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2026-03-25 | Adi Dhumuntarao | Benchmarking quantum computers with any quantum algorithm      | [paper](https://arxiv.org/pdf/2508.05754) |
+| 2026-03-11 | Changhao Li | Toward a Scalable and Transparent Framework for Quantum Benchmarking       | paper to come |
+| 2026-03-04 | Evan Dobbs | Advantage in distributed quantum computing with slow interconnects      | [paper](https://arxiv.org/abs/2512.10693) |
 | 2026-02-25 | Alex Rice | Quantum Circuits Are Just a Phase       | [paper](https://doi.org/10.1145/3776731) | 
 | 2026-02-18 | Brad Chase | Discussion on Computer Science Challenges in Quantum Computing: Early Fault-Tolerance and Beyond        | [paper](https://arxiv.org/abs/2601.20247) | 
 | 2026-02-11 | Adrian Harkness | FTCircuitBench: A Benchmark Suite for Fault-Tolerant Quantum Compilation and Architecture        | [paper](https://arxiv.org/abs/2601.03185), [recording](https://www.youtube.com/watch?v=-AcBCI7-5rk) | 
 | 2026-02-04 | Farrokh Labib | Group Discussion: Magic state cultivation       | [paper](https://arxiv.org/pdf/2512.13908), [paper](https://arxiv.org/pdf/2409.17595), [video](https://www.youtube.com/watch?v=bbR0__v5uHo) | 
-| Postponed | Evan Dobbs | Advantage in distributed quantum computing with slow interconnecs      | [paper](https://arxiv.org/abs/2512.10693) |
 | 2026-01-21 | Charles Yuan | Compiling Block Encodings for Quantum Computational Linear Algebra     | [paper](https://arxiv.org/abs/2511.01736), [recording](https://www.youtube.com/watch?v=rVVsZrc9mmk) |
 | 2026-01-14 | Benjamin Rodatz | Completeness for Fault Equivalence of Clifford ZX Diagrams       | [paper](https://arxiv.org/abs/2510.08477), [recording](https://www.youtube.com/watch?v=JbSsduHbRx8) |
-| Postponed | Adi Dhumuntarao | Benchmarking quantum computers with any quantum algorithm      | [paper](https://arxiv.org/pdf/2508.05754) |
 | 2025-12-03 | Nishad Maskara | Batched high-rate logical operations for quantum LDPC codes      | [paper](https://arxiv.org/abs/2510.06159), [recording](https://youtu.be/PR5B-V1vGC4) |
 | 2025-11-26 | Abtin Molavi | Generating Compilers for Qubit Mapping and Routing      | [paper](https://arxiv.org/abs/2508.10781), [recording](https://youtu.be/mG1PJTlyC9Q?si=seLkdVRZyiGUeD7U) |
 | 2025-11-19 | Leonardo Banchi | Efficient tensor-network simulations of weakly-measured quantum circuits      | [paper](https://arxiv.org/abs/2510.07211), [slides](https://drive.google.com/file/d/1t4HijLT4G4z4veaarLcUagiNRSESYVpG/view?usp=drive_link), [recording](https://youtu.be/MzAPCULvJzs?si=YL43Ab1NINS7PTbi) |
