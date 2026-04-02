@@ -16,7 +16,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
 | 2026-04-01 | Tim Vroomans | Using OrangeQS Juice to enable free quantum-processor access through Quantum Inspire | [repo](https://gitlab.com/orangeqs/juice) |
-| 2026-03-25 | Adi Dhumuntarao | Benchmarking quantum computers with any quantum algorithm      | [paper](https://arxiv.org/pdf/2508.05754) |
+| 2026-03-25 | Adi Dhumuntarao | Benchmarking quantum computers with any quantum algorithm      | [paper](https://arxiv.org/pdf/2508.05754), [slides](https://drive.google.com/file/d/1mqmplp69Zp76mb8CEg7SiBgh6BeZsqK6/view?usp=sharing)
 | Postponed | Changhao Li | Toward a Scalable and Transparent Framework for Quantum Benchmarking       | [paper](https://arxiv.org/abs/2603.08680) |
 | 2026-03-04 | Evan Dobbs | Advantage in distributed quantum computing with slow interconnects      | [paper](https://arxiv.org/abs/2512.10693) |
 | 2026-02-25 | Alex Rice | Quantum Circuits Are Just a Phase       | [paper](https://doi.org/10.1145/3776731) | 
