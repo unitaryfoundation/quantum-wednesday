@@ -15,7 +15,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2026-05-06 | Veena Vijayakumar, Ben Castanon | Grantmaking and Open Source Community Development in Quantum Technology | slides |
+| 2026-05-06 | Veena Vijayakumar, Ben Castanon | Grantmaking and Open Source Community Development in Quantum Technology | [slides](https://drive.google.com/file/d/18s1YZ9oQ5VqP-SQmeRv71KubMnvu0-g5/view?usp=sharing), [recording](https://youtu.be/Y3Vl4ZXqnlw) |
 | 2026-04-22 | Tim Vroomans | Using OrangeQS Juice to enable free quantum-processor access through Quantum Inspire | [repo](https://gitlab.com/orangeqs/juice), [recording](https://youtu.be/y1xZ0GOl8is) |
 | 2026-04-15 | Farrokh Labib | Efficiently estimating the fidelity of GHZ states using compressed sensing  | [slides](https://drive.google.com/file/d/1AadkQL7LI0LxnMZUjdiZm6Grw2BG5ZEL/view?usp=sharing)|
 | 2026-03-25 | Adi Dhumuntarao | Benchmarking quantum computers with any quantum algorithm      | [paper](https://arxiv.org/pdf/2508.05754), [slides](https://drive.google.com/file/d/1mqmplp69Zp76mb8CEg7SiBgh6BeZsqK6/view?usp=sharing)
