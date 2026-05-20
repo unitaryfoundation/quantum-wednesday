@@ -15,6 +15,8 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2026-06-03 | Veena Vijayakumar | unitaryHACK26 Kickoff   | [link](https://unitaryhack.dev/) |
+| 2026-05-20 | Brad Chase | Clifft - Fast Exact Simulation of Near-Clifford Quantum Circuits  | [paper](https://arxiv.org/abs/2604.27058) |
 | 2026-05-06 | Veena Vijayakumar, Ben Castanon | Grantmaking and Open Source Community Development in Quantum Technology | [slides](https://drive.google.com/file/d/18s1YZ9oQ5VqP-SQmeRv71KubMnvu0-g5/view?usp=sharing), [recording](https://youtu.be/Y3Vl4ZXqnlw) |
 | 2026-04-22 | Tim Vroomans | Using OrangeQS Juice to enable free quantum-processor access through Quantum Inspire | [repo](https://gitlab.com/orangeqs/juice), [recording](https://youtu.be/y1xZ0GOl8is) |
 | 2026-04-15 | Farrokh Labib | Efficiently estimating the fidelity of GHZ states using compressed sensing  | [slides](https://drive.google.com/file/d/1AadkQL7LI0LxnMZUjdiZm6Grw2BG5ZEL/view?usp=sharing)|
