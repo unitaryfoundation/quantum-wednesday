@@ -17,6 +17,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 | ----------------- | --------- | ----- | ----- |
 | 2026-08-19 | James Wootton | QPU-scale randomized benchmarking via Bell-pair injection     | [paper](https://arxiv.org/abs/2605.22744) |
 | 2026-08-12 | Gushu Li | Computer-Aided Design for Quantum Error Correction Codes    | paper |
+| 2026-08-05 | Gemma Platt, Sara Metwalli | Deltakit Community Fund AMA     | slides |
 | 2026-06-03 | Veena Vijayakumar | unitaryHACK26 Kickoff   | [link](https://unitaryhack.dev/) |
 | 2026-05-20 | Brad Chase | Clifft - Fast Exact Simulation of Near-Clifford Quantum Circuits  | [paper](https://arxiv.org/abs/2604.27058), [slides](https://drive.google.com/file/d/110C8ix0XCZQC_6lsPb-CVz2EJsLn6ZNV/view?usp=sharing) |
 | 2026-05-06 | Veena Vijayakumar, Ben Castanon | Grantmaking and Open Source Community Development in Quantum Technology | [slides](https://drive.google.com/file/d/18s1YZ9oQ5VqP-SQmeRv71KubMnvu0-g5/view?usp=sharing), [recording](https://youtu.be/Y3Vl4ZXqnlw) |
