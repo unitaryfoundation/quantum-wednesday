@@ -15,7 +15,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2026-08-19 | James Wootton | QPU-scale randomized benchmarking via Bell-pair injection     | [paper](https://arxiv.org/abs/2605.22744) |
+| 2026-08-19 | James Wootton | Quantum circuit design via dynamic Pauli constraints     | [paper](https://arxiv.org/abs/2605.22744) |
 | 2026-08-12 | Gushu Li | Computer-Aided Design for Quantum Error Correction Codes    | paper |
 | 2026-08-05 | Gemma Platt, Sara Metwalli | Deltakit Community Fund AMA     | slides |
 | 2026-06-03 | Veena Vijayakumar | unitaryHACK26 Kickoff   | [link](https://unitaryhack.dev/) |
