@@ -15,6 +15,8 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2026-09-02 | Alessandro Cosentino | 370 quantum benchmark datapoints and counting       | [paper](https://arxiv.org/abs/2603.08680), [website](https://metriq.info/) |
+| 2026-08-26 | Ahmed Darwish | The Plumbing Nobody Tells You About: Getting a Quantum Experiment Through the Door      | paper |
 | 2026-08-19 | James Wootton | QPU-scale randomized benchmarking via Bell-pair injection     | [paper](https://arxiv.org/abs/2605.22744) |
 | 2026-08-12 | Gushu Li | Computer-Aided Design for Quantum Error Correction Codes    | paper |
 | 2026-08-05 | Gemma Platt, Sara Metwalli | Deltakit Community Fund AMA     | slides |
